@@ -1,0 +1,13 @@
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\bin\Debug\BTLtest2.exe.config
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\bin\Debug\BTLtest2.exe
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\bin\Debug\BTLtest2.pdb
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.csproj.AssemblyReference.cache
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.quanlysach.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.Properties.Resources.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.csproj.GenerateResource.cache
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.csproj.CoreCompileInputs.cache
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.exe
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.pdb
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.dangnhap.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.baocaohangton.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.main.resources
