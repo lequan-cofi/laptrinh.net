@@ -9,5 +9,12 @@ D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\
 D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.exe
 D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.pdb
 D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.dangnhap.resources
-D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.baocaohangton.resources
 D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.main.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.baocao.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.home.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.doanhthu.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.loinhuan.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.chiphi.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.hanghoa.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.hangtonkho.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.khachhang.resources

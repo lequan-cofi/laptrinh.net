@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace BTLtest2
 {
-    public partial class baocaohangton : Form
+    public partial class timkiemsach : Form
     {
-        public baocaohangton()
+        public timkiemsach()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

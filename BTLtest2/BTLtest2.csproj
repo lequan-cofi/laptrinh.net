@@ -46,11 +46,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form\baocaohangton.cs">
+    <Compile Include="Form\chiphi.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form\baocaohangton.Designer.cs">
-      <DependentUpon>baocaohangton.cs</DependentUpon>
+    <Compile Include="Form\chiphi.Designer.cs">
+      <DependentUpon>chiphi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\doanhthu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\doanhthu.Designer.cs">
+      <DependentUpon>doanhthu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\baocao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\baocao.Designer.cs">
+      <DependentUpon>baocao.cs</DependentUpon>
     </Compile>
     <Compile Include="dangnhap.cs">
       <SubType>Form</SubType>
@@ -63,6 +75,36 @@
     </Compile>
     <Compile Include="Form\main.Designer.cs">
       <DependentUpon>main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\home.Designer.cs">
+      <DependentUpon>home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\hanghoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\hanghoa.Designer.cs">
+      <DependentUpon>hanghoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\hangtonkho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\hangtonkho.Designer.cs">
+      <DependentUpon>hangtonkho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\khachhang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\khachhang.Designer.cs">
+      <DependentUpon>khachhang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\loinhuan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\loinhuan.Designer.cs">
+      <DependentUpon>loinhuan.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -117,14 +159,35 @@
     <EmbeddedResource Include="dangnhap.resx">
       <DependentUpon>dangnhap.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form\baocaohangton.resx">
-      <DependentUpon>baocaohangton.cs</DependentUpon>
+    <EmbeddedResource Include="Form\baocao.resx">
+      <DependentUpon>baocao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\chiphi.resx">
+      <DependentUpon>chiphi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\doanhthu.resx">
+      <DependentUpon>doanhthu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\hanghoa.resx">
+      <DependentUpon>hanghoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\hangtonkho.resx">
+      <DependentUpon>hangtonkho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\khachhang.resx">
+      <DependentUpon>khachhang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\loinhuan.resx">
+      <DependentUpon>loinhuan.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form\main.resx">
       <DependentUpon>main.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form\quanlysach.resx">
       <DependentUpon>quanlysach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\home.resx">
+      <DependentUpon>home.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

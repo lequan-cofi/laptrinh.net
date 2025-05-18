@@ -16,5 +16,36 @@ namespace BTLtest2
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bntqlynhanvien_Click(object sender, EventArgs e)
+        {
+
+        }
+        private Form activeForm = null;
+
+        private void openChildForm(Form ChildForm)
+        {
+            if (activeForm != null)
+                activeForm.Close();
+            activeForm = ChildForm;
+            ChildForm.TopLevel = false;
+            ChildForm.FormBorderStyle = FormBorderStyle.None;
+            ChildForm.Dock = DockStyle.Fill;
+            panelchillform.Controls.Add(ChildForm);
+            panelchillform.Tag = ChildForm;
+            ChildForm.BringToFront();
+            ChildForm.Show();
+        }
+
+
+        private void bntbaocao_Click(object sender, EventArgs e)
+        {
+            openChildForm(new baocao());
+        }
     }
 }
