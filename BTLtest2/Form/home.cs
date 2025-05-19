@@ -16,47 +16,52 @@ namespace BTLtest2
         private Form activeForm = null;
         private Size formOriginalSize;
         private Rectangle recPnl1;
-       
-        private void home_Load(object sender, EventArgs e)
-        {
-            hideSubmenu();
-        }
+
         public home()
         {
             InitializeComponent();
-            this.Resize += home_Resiz;
+            this.Load += Home_Load;
+            this.Resize += Home_Resize;
+
             formOriginalSize = this.Size;
-            recPnl1 = new Rectangle(panel1.Location, button1.Size);
-            
+            recPnl1 = new Rectangle(panel1.Location, panel1.Size); // Sửa từ button1.Size
         }
+
+        private void Home_Load(object sender, EventArgs e)
+        {
+            hideSubmenu();
+        }
+
         private void hideSubmenu()
         {
-            if (submenubaocao.Visible == true)
+            if (submenubaocao.Visible)
                 submenubaocao.Visible = false;
+            if (submenuhoadon.Visible)
+                submenuhoadon.Visible = false;
         }
-        private void home_Resiz(object sender, EventArgs e)
+
+        private void Home_Resize(object sender, EventArgs e)
         {
             resize_Control(panel1, recPnl1);
         }
+
         private void resize_Control(Control c, Rectangle r)
         {
-            float xRatio = (float)(this.Width) / (float)(formOriginalSize.Width);
-            float yRatio = (float)(this.Height) / (float)(formOriginalSize.Height);
+            float xRatio = (float)this.Width / formOriginalSize.Width;
+            float yRatio = (float)this.Height / formOriginalSize.Height;
+
             int newX = (int)(r.X * xRatio);
             int newY = (int)(r.Y * yRatio);
-
             int newWidth = (int)(r.Width * xRatio);
             int newHeight = (int)(r.Height * yRatio);
 
             c.Location = new Point(newX, newY);
             c.Size = new Size(newWidth, newHeight);
-
         }
-       
 
         private void showMenu(Panel subMenu)
         {
-            if (subMenu.Visible == false)
+            if (!subMenu.Visible)
             {
                 hideSubmenu();
                 subMenu.Visible = true;
@@ -64,33 +69,62 @@ namespace BTLtest2
             else
                 subMenu.Visible = false;
         }
-        private void panelchillform_Paint(object sender, PaintEventArgs e)
-        {
 
-        }
-       
-       
-        private void openChildForm(Form ChildForm)
+        private void openChildForm(Form childForm)
         {
             if (activeForm != null)
                 activeForm.Close();
-            activeForm = ChildForm;
-            ChildForm.TopLevel = false;
-            ChildForm.FormBorderStyle = FormBorderStyle.None;
-            ChildForm.Dock = DockStyle.Fill;
-            panelchillform.Controls.Add(ChildForm);
-            panelchillform.Tag = ChildForm;
-            ChildForm.BringToFront();
-            ChildForm.Show();
-        }
 
+            activeForm = childForm;
+            childForm.TopLevel = false;
+            childForm.FormBorderStyle = FormBorderStyle.None;
+            childForm.Dock = DockStyle.Fill;
+
+            panelchillform.Controls.Add(childForm);
+            panelchillform.Tag = childForm;
+
+            childForm.BringToFront();
+            childForm.Show();
+        }
 
         private void bntbaocao_Click(object sender, EventArgs e)
         {
+            if (activeForm != null)
+                activeForm.Close();
+
             showMenu(submenubaocao);
         }
 
-        
+        private void bnthoadon_Click(object sender, EventArgs e)
+        {
+            showMenu(submenuhoadon);
+        }
+
+        private void bntqlynhanvien_Click(object sender, EventArgs e)
+        {
+            openChildForm(new quanlynhanvien());
+        }
+
+        private void bntqlysach_Click(object sender, EventArgs e)
+        {
+            openChildForm(new qlykho());
+        }
+
+        private void bnt_quanlykhachhang_Click(object sender, EventArgs e)
+        {
+            openChildForm(new quanlykhachhang());
+        }
+
+        private void bnthdnhap_Click(object sender, EventArgs e)
+        {
+            openChildForm(new qlhoadonnhap());
+        }
+
+        private void bnthdban_Click(object sender, EventArgs e)
+        {
+            openChildForm(new quanlyhoadonban());
+        }
+
     }
       
     }

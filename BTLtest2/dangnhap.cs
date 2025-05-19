@@ -31,5 +31,20 @@ namespace BTLtest2
             // Ẩn Form1 (nếu không muốn ẩn thì bỏ dòng này)
             this.Hide();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            // Khởi tạo Form2
+            home home = new home();
+
+            // Khi Form2 đóng, mình sẽ hiện lại Form1
+            home.FormClosed += (s, args) => this.Show();
+
+            // Hiện Form2
+            home.Show();
+
+            // Ẩn Form1 (nếu không muốn ẩn thì bỏ dòng này)
+            this.Hide();
+        }
     }
 }
