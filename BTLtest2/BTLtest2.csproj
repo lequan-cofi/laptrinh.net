@@ -126,12 +126,6 @@
     <Compile Include="Form\thanhtoan.Designer.cs">
       <DependentUpon>thanhtoan.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form\quanlykho.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form\quanlykho.Designer.cs">
-      <DependentUpon>quanlykho.cs</DependentUpon>
-    </Compile>
     <Compile Include="Form\qlhoadonnhap.cs">
       <SubType>Form</SubType>
     </Compile>
