@@ -183,6 +183,18 @@
     <EmbeddedResource Include="Form\main.resx">
       <DependentUpon>main.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Form\qlhoadonnhap.resx">
+      <DependentUpon>qlhoadonnhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\quanlyhoadonban.resx">
+      <DependentUpon>quanlyhoadonban.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\quanlykhachhang.resx">
+      <DependentUpon>quanlykhachhang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\quanlynhacungcap.resx">
+      <DependentUpon>quanlynhacungcap.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form\quanlysach.resx">
       <DependentUpon>quanlysach.cs</DependentUpon>
     </EmbeddedResource>

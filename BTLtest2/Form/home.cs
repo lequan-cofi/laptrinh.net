@@ -16,7 +16,7 @@ namespace BTLtest2
         private Form activeForm = null;
         private Size formOriginalSize;
         private Rectangle recPnl1;
-
+       
         private void home_Load(object sender, EventArgs e)
         {
             hideSubmenu();
