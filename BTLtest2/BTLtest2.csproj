@@ -144,6 +144,24 @@
     <Compile Include="Form\quanlynhacungcap.Designer.cs">
       <DependentUpon>quanlynhacungcap.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form\timkiemsach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\timkiemsach.Designer.cs">
+      <DependentUpon>timkiemsach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\qlykho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\qlykho.Designer.cs">
+      <DependentUpon>qlykho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\qlymatsach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\qlymatsach.Designer.cs">
+      <DependentUpon>qlymatsach.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="dangnhap.resx">
       <DependentUpon>dangnhap.cs</DependentUpon>
     </EmbeddedResource>
@@ -195,6 +213,15 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Form\timkiemsach.resx">
+      <DependentUpon>timkiemsach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\qlykho.resx">
+      <DependentUpon>qlykho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\qlymatsach.resx">
+      <DependentUpon>qlymatsach.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
