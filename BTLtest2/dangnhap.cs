@@ -32,6 +32,7 @@ namespace BTLtest2
             this.Hide();
         }
 
+<<<<<<< HEAD
         private void label1_Click(object sender, EventArgs e)
         {
 
@@ -40,6 +41,21 @@ namespace BTLtest2
         private void dangnhap_Load(object sender, EventArgs e)
         {
 
+=======
+        private void button2_Click(object sender, EventArgs e)
+        {
+            // Khởi tạo Form2
+            home home = new home();
+
+            // Khi Form2 đóng, mình sẽ hiện lại Form1
+            home.FormClosed += (s, args) => this.Show();
+
+            // Hiện Form2
+            home.Show();
+
+            // Ẩn Form1 (nếu không muốn ẩn thì bỏ dòng này)
+            this.Hide();
+>>>>>>> 64a212e03026b8bd7607b2b034398236d6bc3be2
         }
     }
 }
