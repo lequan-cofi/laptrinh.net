@@ -24,34 +24,17 @@ namespace BTLtest2
         public home()
         {
             InitializeComponent();
-            this.Resize += home_Resiz;
-            formOriginalSize = this.Size;
-            recPnl1 = new Rectangle(panel1.Location, button1.Size);
+           
             
         }
         private void hideSubmenu()
         {
             if (submenubaocao.Visible == true)
                 submenubaocao.Visible = false;
+            if (submenuhoadon.Visible == true)
+                submenuhoadon.Visible = false;
         }
-        private void home_Resiz(object sender, EventArgs e)
-        {
-            resize_Control(panel1, recPnl1);
-        }
-        private void resize_Control(Control c, Rectangle r)
-        {
-            float xRatio = (float)(this.Width) / (float)(formOriginalSize.Width);
-            float yRatio = (float)(this.Height) / (float)(formOriginalSize.Height);
-            int newX = (int)(r.X * xRatio);
-            int newY = (int)(r.Y * yRatio);
-
-            int newWidth = (int)(r.Width * xRatio);
-            int newHeight = (int)(r.Height * yRatio);
-
-            c.Location = new Point(newX, newY);
-            c.Size = new Size(newWidth, newHeight);
-
-        }
+       
        
 
         private void showMenu(Panel subMenu)
@@ -87,10 +70,77 @@ namespace BTLtest2
 
         private void bntbaocao_Click(object sender, EventArgs e)
         {
+            if (activeForm != null)
+                activeForm.Close();
             showMenu(submenubaocao);
         }
 
-        
+        private void bntqlynhanvien_Click(object sender, EventArgs e)
+        {
+            openChildForm(new quanlynhanvien());
+        }
+
+        private void bntqlysach_Click(object sender, EventArgs e)
+        {
+            openChildForm(new qlykho());
+        }
+
+        private void bnt_quanlykhachhang_Click(object sender, EventArgs e)
+        {
+            openChildForm(new quanlykhachhang());
+        }
+
+        private void bntdtcpln_Click(object sender, EventArgs e)
+        {
+            openChildForm(new doanhthu());
+        }
+
+        private void bnt_loinhuan_Click(object sender, EventArgs e)
+        {
+            openChildForm(new loinhuan());
+        }
+
+        private void bntchiphi_Click(object sender, EventArgs e)
+        {
+            openChildForm(new chiphi());
+        }
+
+        private void bntkhachhang_Click(object sender, EventArgs e)
+        {
+            openChildForm(new khachhang());
+        }
+
+        private void bnthanghoa_Click(object sender, EventArgs e)
+        {
+            openChildForm(new hanghoa());
+        }
+
+        private void bnthangtonkho_Click(object sender, EventArgs e)
+        {
+            openChildForm(new hangtonkho());
+        }
+
+        private void bnthoadon_Click(object sender, EventArgs e)
+        {
+            if (activeForm != null)
+                activeForm.Close();
+            showMenu(submenuhoadon);
+        }
+
+        private void bnthdban_Click(object sender, EventArgs e)
+        {
+            openChildForm(new quanlyhoadonban());
+        }
+
+        private void bnthdmua_Click(object sender, EventArgs e)
+        {
+            openChildForm(new qlhoadonnhap());
+        }
+
+        private void bntthanhtoan_Click(object sender, EventArgs e)
+        {
+            openChildForm(new thanhtoan());
+        }
     }
       
     }

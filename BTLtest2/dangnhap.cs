@@ -31,5 +31,15 @@ namespace BTLtest2
             // Ẩn Form1 (nếu không muốn ẩn thì bỏ dòng này)
             this.Hide();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dangnhap_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
