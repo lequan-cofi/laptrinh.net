@@ -60,7 +60,6 @@
             this.txtMacode = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.btnThem = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
             this.cboNhacungcap = new System.Windows.Forms.ComboBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.txtDiachi = new System.Windows.Forms.TextBox();
@@ -74,6 +73,7 @@
             this.label19 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.btnXoaHD = new System.Windows.Forms.Button();
+            this.mskDienthoai = new System.Windows.Forms.MaskedTextBox();
             ((System.ComponentModel.ISupportInitialize)(this.DataGridViewChitiet)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -86,6 +86,7 @@
             this.cboManhanvien.Name = "cboManhanvien";
             this.cboManhanvien.Size = new System.Drawing.Size(172, 24);
             this.cboManhanvien.TabIndex = 24;
+            this.cboManhanvien.SelectedIndexChanged += new System.EventHandler(this.cboManhanvien_SelectedIndexChanged);
             // 
             // txtTennhanvien
             // 
@@ -361,13 +362,6 @@
             this.btnThem.Text = "Thêm hóa đơn";
             this.btnThem.UseVisualStyleBackColor = false;
             // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(510, 119);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(210, 22);
-            this.textBox1.TabIndex = 35;
-            // 
             // cboNhacungcap
             // 
             this.cboNhacungcap.FormattingEnabled = true;
@@ -378,7 +372,7 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.textBox1);
+            this.groupBox1.Controls.Add(this.mskDienthoai);
             this.groupBox1.Controls.Add(this.cboNhacungcap);
             this.groupBox1.Controls.Add(this.txtDiachi);
             this.groupBox1.Controls.Add(this.txtTennhacungcap);
@@ -524,6 +518,13 @@
             this.btnXoaHD.Text = "Xóa hóa đơn";
             this.btnXoaHD.UseVisualStyleBackColor = false;
             // 
+            // mskDienthoai
+            // 
+            this.mskDienthoai.Location = new System.Drawing.Point(510, 122);
+            this.mskDienthoai.Name = "mskDienthoai";
+            this.mskDienthoai.Size = new System.Drawing.Size(210, 22);
+            this.mskDienthoai.TabIndex = 36;
+            // 
             // qlhoadonnhap
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -538,6 +539,7 @@
             this.Controls.Add(this.btnXoaHD);
             this.Name = "qlhoadonnhap";
             this.Text = "qlhoadonnhap";
+            this.Load += new System.EventHandler(this.qlhoadonnhap_Load);
             ((System.ComponentModel.ISupportInitialize)(this.DataGridViewChitiet)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
@@ -582,7 +584,6 @@
         private System.Windows.Forms.TextBox txtMacode;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button btnThem;
-        private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.ComboBox cboNhacungcap;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.TextBox txtDiachi;
@@ -596,5 +597,6 @@
         private System.Windows.Forms.Label label19;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.Button btnXoaHD;
+        private System.Windows.Forms.MaskedTextBox mskDienthoai;
     }
 }
