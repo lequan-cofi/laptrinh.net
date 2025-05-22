@@ -889,10 +889,13 @@ namespace BTLtest2
             else
                 e.Handled = true;
         }
+<<<<<<< HEAD
 
         private void btnThemsanpham_Click_1(object sender, EventArgs e)
         {
 
         }
+=======
+>>>>>>> 11c05b5075591128da0e21cb778e5a32dd965d84
     }
 }

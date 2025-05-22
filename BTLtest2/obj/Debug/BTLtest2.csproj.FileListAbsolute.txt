@@ -1,0 +1,168 @@
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\bin\Debug\BTLtest2.exe.config
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\bin\Debug\BTLtest2.exe
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\bin\Debug\BTLtest2.pdb
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.csproj.AssemblyReference.cache
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.quanlysach.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.Properties.Resources.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.csproj.GenerateResource.cache
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.csproj.CoreCompileInputs.cache
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.exe
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.pdb
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.dangnhap.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.main.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.baocao.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.home.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.doanhthu.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.loinhuan.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.chiphi.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.hanghoa.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.hangtonkho.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTLtest2\BTLtest2\obj\Debug\BTLtest2.khachhang.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTL main\laptrinh.net\BTLtest2\bin\Debug\BTLtest2.exe.config
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTL main\laptrinh.net\BTLtest2\bin\Debug\BTLtest2.exe
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTL main\laptrinh.net\BTLtest2\bin\Debug\BTLtest2.pdb
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTL main\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.csproj.AssemblyReference.cache
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTL main\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.dangnhap.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTL main\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.baocao.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTL main\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.chiphi.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTL main\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.doanhthu.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTL main\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.hanghoa.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTL main\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.hangtonkho.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTL main\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.khachhang.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTL main\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.loinhuan.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTL main\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.main.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTL main\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.qlhoadonnhap.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTL main\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.quanlyhoadonban.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTL main\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.quanlykhachhang.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTL main\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.quanlynhacungcap.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTL main\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.quanlysach.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTL main\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.home.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTL main\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.Properties.Resources.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTL main\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.csproj.GenerateResource.cache
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTL main\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.csproj.CoreCompileInputs.cache
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTL main\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.exe
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\BTL main\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.pdb
+<<<<<<< HEAD
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\BTLtest2.exe.config
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\BTLtest2.exe
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\BTLtest2.pdb
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.csproj.AssemblyReference.cache
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.dangnhap.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.baocao.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.chiphi.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.doanhthu.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.hanghoa.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.hangtonkho.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.khachhang.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.loinhuan.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.main.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.qlhoadonnhap.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.quanlyhoadonban.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.quanlykhachhang.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.quanlynhacungcap.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.home.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.Properties.Resources.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.timkiemsach.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.qlykho.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.qlymatsach.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.csproj.GenerateResource.cache
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.csproj.CoreCompileInputs.cache
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.exe
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.pdb
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.Data.Desktop.v24.2.dll
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.Data.v24.2.dll
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.Drawing.v24.2.dll
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.Printing.v24.2.Core.dll
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.Utils.v24.2.dll
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.XtraBars.v24.2.dll
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.XtraEditors.v24.2.dll
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.XtraGrid.v24.2.dll
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.XtraLayout.v24.2.dll
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.XtraPrinting.v24.2.dll
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.XtraScheduler.v24.2.Core.Desktop.dll
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.XtraScheduler.v24.2.Core.dll
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.XtraScheduler.v24.2.dll
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.Pdf.v24.2.Core.dll
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.Pdf.v24.2.Drawing.dll
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.Sparkline.v24.2.Core.dll
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.RichEdit.v24.2.Core.dll
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.XtraTreeList.v24.2.dll
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.Images.v24.2.dll
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.Office.v24.2.Core.dll
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.Data.Desktop.v24.2.xml
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.Data.v24.2.xml
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.Drawing.v24.2.xml
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.Printing.v24.2.Core.xml
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.Utils.v24.2.xml
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.XtraBars.v24.2.xml
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.XtraEditors.v24.2.xml
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.XtraGrid.v24.2.xml
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.XtraLayout.v24.2.xml
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.XtraPrinting.v24.2.xml
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.XtraScheduler.v24.2.xml
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.XtraScheduler.v24.2.Core.xml
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.XtraScheduler.v24.2.Core.Desktop.xml
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.Pdf.v24.2.Core.xml
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.Pdf.v24.2.Drawing.xml
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.Sparkline.v24.2.Core.xml
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.RichEdit.v24.2.Core.xml
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.XtraTreeList.v24.2.xml
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\bin\Debug\DevExpress.Office.v24.2.Core.xml
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.quanlynhanvien.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.exe.licenses
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.csproj.Up2Date
+=======
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\bin\Debug\BTLtest2.exe.config
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\bin\Debug\BTLtest2.exe
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\bin\Debug\BTLtest2.pdb
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.csproj.AssemblyReference.cache
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.dangnhap.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.baocao.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.chiphi.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.doanhthu.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.hanghoa.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.hangtonkho.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.khachhang.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.loinhuan.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.main.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.qlhoadonnhap.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.quanlyhoadonban.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.quanlykhachhang.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.quanlynhacungcap.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.home.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.Properties.Resources.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.timkiemsach.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.qlykho.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.qlymatsach.resources
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.csproj.GenerateResource.cache
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.csproj.CoreCompileInputs.cache
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.exe
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.pdb
+D:\Tài liệu học tập\Tài liệu học tập Lequan\Học tập trường\Tài liệu năm 3\Laptrinh.net\New folder\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.quanlynhanvien.resources
+>>>>>>> 64a212e03026b8bd7607b2b034398236d6bc3be2
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.csproj.AssemblyReference.cache
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.dangnhap.resources
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.baocao.resources
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.chiphi.resources
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.doanhthu.resources
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.hanghoa.resources
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.hangtonkho.resources
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.khachhang.resources
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.loinhuan.resources
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.main.resources
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.qlhoadonnhap.resources
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.quanlyhoadonban.resources
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.quanlykhachhang.resources
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.quanlynhacungcap.resources
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.home.resources
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.quanlynhanvien.resources
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.thanhtoan.resources
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.Properties.Resources.resources
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.timkiemsach.resources
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.qlykho.resources
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.qlymatsach.resources
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.csproj.GenerateResource.cache
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.exe.licenses
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.csproj.CoreCompileInputs.cache
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.exe
+D:\laptrinh.net\laptrinh.net\BTLtest2\obj\Debug\BTLtest2.pdb

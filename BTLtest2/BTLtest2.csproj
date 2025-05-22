@@ -63,8 +63,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="Class\khosach.cs" />
     <Compile Include="Class\matsach.cs" />
+=======
+>>>>>>> 11c05b5075591128da0e21cb778e5a32dd965d84
     <Compile Include="Class\taikhoan.cs" />
     <Compile Include="Form\chiphi.cs">
       <SubType>Form</SubType>
@@ -128,9 +131,12 @@
     </Compile>
     <Compile Include="function\functionhoadonnhap.cs" />
     <Compile Include="function\functionnhacungcap.cs" />
+<<<<<<< HEAD
     <Compile Include="function\functionqlykho.cs" />
     <Compile Include="function\functionqlymatsach.cs" />
     <Compile Include="function\functiontimkiemsach.cs" />
+=======
+>>>>>>> 11c05b5075591128da0e21cb778e5a32dd965d84
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Form\quanlykhachhang.cs">

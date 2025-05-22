@@ -12,12 +12,16 @@ namespace BTLtest2
 {
     public partial class qlymatsach : Form
     {
+<<<<<<< HEAD
         DataTable tblMatSach;
         private bool isAddingNew = false;
+=======
+>>>>>>> 11c05b5075591128da0e21cb778e5a32dd965d84
         public qlymatsach()
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
 
         private void qlymatsach_Load(object sender, EventArgs e)
         {
@@ -187,5 +191,7 @@ namespace BTLtest2
                 btnXoa.Enabled = true; // Cho phép xóa khi có bản ghi được chọn
             }
         }
+=======
+>>>>>>> 11c05b5075591128da0e21cb778e5a32dd965d84
     }
 }

@@ -7,7 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+<<<<<<< HEAD
 using BTLtest2.function;
+=======
+>>>>>>> 11c05b5075591128da0e21cb778e5a32dd965d84
 
 namespace BTLtest2
 {
@@ -17,6 +20,7 @@ namespace BTLtest2
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
         DataTable tblSach;
 
         private void qlykho_Load(object sender, EventArgs e)
@@ -429,5 +433,7 @@ namespace BTLtest2
             btnLuu.Enabled = false;
             txtMasach.Enabled = false;
         }
+=======
+>>>>>>> 11c05b5075591128da0e21cb778e5a32dd965d84
     }
 }

@@ -16,6 +16,7 @@ namespace BTLtest2
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
 
         private void TimKiemSach_Load(object sender, EventArgs e)
         {
@@ -81,5 +82,7 @@ namespace BTLtest2
         {
             this.Close();
         }
+=======
+>>>>>>> 11c05b5075591128da0e21cb778e5a32dd965d84
     }
 }
